@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Project-Antelope/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Project-Antelope/static/js/main.67eec009.chunk.js",
+    "main.js.map": "/Project-Antelope/static/js/main.67eec009.chunk.js.map",
+    "runtime-main.js": "/Project-Antelope/static/js/runtime-main.a50bbd62.js",
+    "runtime-main.js.map": "/Project-Antelope/static/js/runtime-main.a50bbd62.js.map",
+    "static/js/2.2b772e54.chunk.js": "/Project-Antelope/static/js/2.2b772e54.chunk.js",
+    "static/js/2.2b772e54.chunk.js.map": "/Project-Antelope/static/js/2.2b772e54.chunk.js.map",
+    "index.html": "/Project-Antelope/index.html",
+    "precache-manifest.033dc2990665c6f3f48cd50a30aa42b3.js": "/Project-Antelope/precache-manifest.033dc2990665c6f3f48cd50a30aa42b3.js",
+    "service-worker.js": "/Project-Antelope/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Project-Antelope/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2b772e54.chunk.js.LICENSE.txt": "/Project-Antelope/static/js/2.2b772e54.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Project-Antelope/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a50bbd62.js",
+    "static/js/2.2b772e54.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.67eec009.chunk.js"
+  ]
+}
